@@ -17,3 +17,11 @@ Else go to requirements.txt and change to `tensorflow-cpu` for the CPU-only pack
 
 #### Setting up packages using pip
 Do `pip install -r requirements.txt`
+
+#### Sequence of files to run
+- Run prediction_model.ipynb
+- Run xy_locate.ipynb
+- Run results.ipynb (will generate results.csv in the root directory)
+
+#### Problems
+- Some folders might be missing

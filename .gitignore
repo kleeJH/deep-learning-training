@@ -1,1 +1,5 @@
 .conda
+./model/xy_locate/xy_locate_model/*
+./model/xy_locate/xy_locate_model_2/*
+./model/prediction/prediction_model/*
+./model/prediction/prediction_model_2/*
